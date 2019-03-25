@@ -5,6 +5,11 @@
 std::string* textures;
 std::string title;
 
+int LoadLevel(std::ifstream& file, int level)
+{
+
+}
+
 int LoadTextures(std::ifstream& file, int num)
 {
 	std::string word;

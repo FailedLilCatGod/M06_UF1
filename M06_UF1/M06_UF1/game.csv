@@ -3,7 +3,7 @@ TEXTURES;3;;
 1;suelo_verde.png;;
 2;suelo_marron.png;;
 3;piedra.png;;
-LEVEL;;
+LEVELS;1;;
 LEVEL;1;Prado Del MAL;12;8;;
 BACKGROUND;;
 1;1;1;1;1;1;1;1;1;1;1;1;;
