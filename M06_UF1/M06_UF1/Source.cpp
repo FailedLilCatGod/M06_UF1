@@ -5,8 +5,18 @@
 std::string* textures;
 std::string title;
 
+struct Levels
+{
+	int level_number = 0;
+	std::string level_name;
+	int	level_width;
+	int level_height;
+
+};
+
 int LoadLevel(std::ifstream& file, int level)
 {
+
 
 }
 
